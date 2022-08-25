@@ -1,5 +1,12 @@
 # Lightrange
 
+## Technologies
+
+- **HTML**
+- **CSS**
+- **JS**
+- **BOOTSTRAP**
+
 ### [**Live Demo**](https://rzvkoli.github.io/Lightrange/)
 
 ## Preview
