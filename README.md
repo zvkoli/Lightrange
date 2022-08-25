@@ -1,7 +1,6 @@
 # Lightrange
 
-## Live Demo
-https://rzvkoli.github.io/Lightrange/ ( Please run with Google Chrome browser )
+## [Live Demo](https://rzvkoli.github.io/Lightrange/)( Please run with Google Chrome browser )
 
 ## Preview
 ### Desktop Mode
