@@ -1,6 +1,6 @@
 # Lightrange
 
-## [Live Demo](https://rzvkoli.github.io/Lightrange/)
+### [**Live Demo**](https://rzvkoli.github.io/Lightrange/)
 
 ## Preview
 ### Desktop Mode
